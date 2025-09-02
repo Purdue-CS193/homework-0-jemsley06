@@ -1,8 +1,15 @@
-## Welcome to Jason's CS193 Tools Website
+# Jason Emsley's First CS193 Homework
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### My favorite things about CS193:
+- The course is run by current students, so the content is tailored to what will actually help me as a CS major
+- Many (or all!!) of the tools I'll learn are not taught in CS180, but are extremely useful for any projects (academic or personal) I will build
+- Only need to meet once a week, even if it's at 6:30 :(
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### A little bit about me, in case I use this website in the future
+
+I am first-semester freshman studying CS at Purdue University. Because you are probably one of the course leads reading this website to grade HW1, I just want you to know that yes twin, WE are getting FAANG internships.
+
+<sub> note that I will be keeping the guide below for the time being </sub>
 
 ### Markdown
 
